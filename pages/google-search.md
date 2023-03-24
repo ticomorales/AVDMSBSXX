@@ -6,10 +6,10 @@ permalink: /search/google.html
 # set google-cse-id in _config.yml
 ---
 
-## Google Site Search
+## Búsqueda de Google en el Sitio Web
 
 <div class="alert alert-primary" role="alert">
-  Please note: CSE is a free service provided by Google. Results depend on third party indexing and may contain ads.
+  TENGA EN CUENTA: "CSE" es un servicio gratuito que provee Google. Los resultados dependerán de la forma en que este tercero indexa este sitio web y sus resultados pueden variar con cada consulta e incluir publicidad.
 </div>
 
 <script>
