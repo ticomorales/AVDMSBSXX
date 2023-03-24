@@ -8,7 +8,8 @@ permalink: /subjects.html
 cloud-fields: site.data.theme.subjects-fields
 ---
 
-## Browse Subjects
+## Buscar en la colección
 
-Use this word cloud visualization to browse terms and subjects.
-Word size is determined by frequency and all words link to a corresponding collection search.
+Use la siguiente visualización de palabras para buscar entre temas y otros términos.
+
+El tamaño de la palabar deremina la frecuencia de su uso y todas las palabras están vinculadas con una búsqueda dentro de la colección.
