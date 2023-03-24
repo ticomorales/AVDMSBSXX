@@ -7,4 +7,4 @@ permalink: /browse.html
 ---
 
 ## Búsqueda
-#En este espacio puede buscar elementos dentro de la exhibición
+###En este espacio puede buscar elementos dentro de la exhibición
