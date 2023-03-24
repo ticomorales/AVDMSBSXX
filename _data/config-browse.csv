@@ -1,5 +1,5 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
-subject,,true
-location,,true
+date,Fecha,,,Date
+creator,Autor,,,
+subject,Tema,true
+location,Ubicación,true
