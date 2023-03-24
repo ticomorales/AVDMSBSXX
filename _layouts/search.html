@@ -5,13 +5,13 @@ custom-foot: js/lunr-js.html
 ---
 {%- assign fields = site.data.config-search | where: 'index',true | map: 'field' -%}
 <!-- Button trigger modal -->
-<button type="button" class="btn btn-outline-primary float-end" data-bs-toggle="modal" data-bs-target="#operators">Search Options</button>
+<button type="button" class="btn btn-outline-primary float-end" data-bs-toggle="modal" data-bs-target="#operators">Opciones de búsqueda</button>
 <!-- Modal -->
 <div class="modal fade" id="operators" tabindex="-1" role="dialog" aria-labelledby="modalLabel" aria-hidden="true">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="modalLabel">Lunr Search Options</h5>
+                <h5 class="modal-title" id="modalLabel">Opciones de búsqueda Lunr</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
@@ -32,9 +32,9 @@ custom-foot: js/lunr-js.html
 <div class="ms-3 mt-3">
     <form class="" role="search" id="lunrSearch" onsubmit="lunr_search(); return false;">
         <div class="input-group input-group-lg">
-            <input id="lunrSearchBox" class="form-control " type="text" placeholder="Enter your search term..." >
+            <input id="lunrSearchBox" class="form-control " type="text" placeholder="Escriba una palabra para buscar..." >
             <button class="btn btn-success" type="submit">
-                Search
+                Buscar
             </button>
         </div>
     </form>
