@@ -28,10 +28,10 @@ La configuración original de Collection Builer permite la descarga de los datos
 
 ## [Sobre los derechos de Autor](#sobre-derechos-de-autor)
 
-Las fotografías que se muestran hasta la fecha son propiedad exclusiva de sus autores y son expuestas bajo la licencia Creative Commons 4.0, que permite su utilización para actividades académicas o investigativas, entregando el respectivo crédito a los autores y al investigador. [Para más información sobre CC4.0 puede consultarse este enlace](https://creativecommons.org/licenses/?lang=es){:target="_blank"}.
+Las fotografías que se muestran hasta la fecha son propiedad exclusiva de sus autores y son expuestas bajo la licencia Creative Commons 4.0, que permite su utilización para actividades académicas o investigativas, entregando el respectivo crédito a los autores y al investigador. Para más información sobre C.C.4.0 puede consultarse [este enlace](https://creativecommons.org/licenses/?lang=es){:target="_blank"}.
 
 Las fotografías publicadas en el repositorio hasta junio de 2023, pertencen al archivo particular de Manuel Antonio Velandia, su fundación Apoyémonos, su proyecto Equiláteros y algunos escáneres del archivo digital la revista Ventana Gay de 1980-1984. Para usos comerciales de las imágenes debe contactarse al autor, al investigador o a la Universidad de Los Andes para gestionar los respectivos permisos y autorizaciones.
 
 ## [Contacto](#contacto)
 
-Para más información sobre el repositorio, los usos o donación de material fotográfico para clasificación, digitalización o preservación digital, por favor escribir a: ra.moralesr (at) uniandes.edu.co
+Para más información sobre el repositorio, los usos o donación de material fotográfico para clasificación, digitalización o preservación digital, por favor escribir a: ra.moralesr(at)uniandes.edu.co
